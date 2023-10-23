@@ -29,7 +29,7 @@ header{
 }
 
 .navigation{
-    background-color: rgb(161, 213, 178);
+    /*background-color: rgb(161, 213, 178); */
     display: inline-block;
     padding: 10px;
     text-align: center;
@@ -37,16 +37,16 @@ header{
 }
 
 .selectedWork{
-    background-color: antiquewhite;
+    /*background-color: antiquewhite; */
     text-align: center;
     padding-top: 4%;
 }
 
 .projectSection{
-    background-color: rgb(196, 255, 255);
+    /*background-color: rgb(196, 255, 255); */
     padding-left: 9%;
     padding-right: 9%;
-    padding-top: 9%;
+    padding-top: 3%;
 }
 
 .projectImg{
