@@ -1,5 +1,19 @@
+html{
+    background-color: #FAFAFA;
+}
+
 body{
     font-family: 'Inter', sans-serif;
+}
+
+h4{
+    font-weight: 450;
+    font-size: 60px;
+}
+
+h6{
+    font-weight: 400;
+    font-size: 50px;
 }
 
 h1{
@@ -21,15 +35,19 @@ p{
     font-size: 12px;
 }
 
+a{
+    color: black;
+    text-decoration: none;
+}
+
 header{
-    background-color: aquamarine;
+    box-shadow: 0px 2px 4px -2px grey;
     padding: 30px;
     padding-left: 9%;
     padding-right: 9%;
 }
 
 .navigation{
-    /*background-color: rgb(161, 213, 178); */
     display: inline-block;
     padding: 10px;
     text-align: center;
@@ -56,7 +74,8 @@ header{
 
 footer{
     padding: 140px;
-    background-color: black;
+    margin-top: 200px;
+    background-color: #1F1F1F;
     color: white;
 }
 
